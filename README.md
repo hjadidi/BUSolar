@@ -8,7 +8,7 @@ To run the code two matrices as inputs are essential:
 2)The matrix of available ground measured GHI for the selected coordinate  
 ## Contents of the package (Please place these files in the current directory of MATLAB)
 - The Excel file "SourceMCMC_NSRDB.xlsx" includes the above two sample matrices
-- Liklihood function (lk.m). 
+- Liklihood function (lk.m) 
 - Prior function (prior.m)
 ## Output of the code
-The outputs of the code is "post" matrix. Each row of the matrix shows the estimated mean value(first column) and standard deviation(second column) of GHI posterior distribution.
+The outputs of the code is "post" matrix. Each row of the matrix shows the estimated mean value(first column) and standard deviation(second column) of hourly GHI posterior distribution.
