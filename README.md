@@ -9,7 +9,7 @@ To run the code two matrices as inputs are essential:
 ## Contents of the package (Please place these files in the current directory of MATLAB)
 - Main code (BUSolarData.m)
 - Sample data ("SourceMCMC_NSRDB.xlsx")
-- Liklihood function (lk.m) 
+- Likelihood function (lk.m) 
 - Prior function (prior.m)
 ## Output of the code
 The outputs of the code is "post" matrix. Each row of the matrix shows the estimated mean value(first column) and standard deviation(second column) of hourly GHI posterior distribution.
