@@ -7,6 +7,7 @@ To run the code two matrices as inputs are essential:
 1)The matrix of long term satellite-based GHI for a coordinate 
 2)The matrix of available ground measured GHI for the selected coordinate  
 ## Contents of the package (Please place these files in the current directory of MATLAB)
+- BUSolarData.m
 - The Excel file "SourceMCMC_NSRDB.xlsx" includes the above two sample matrices
 - Liklihood function (lk.m) 
 - Prior function (prior.m)
