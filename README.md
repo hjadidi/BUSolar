@@ -12,7 +12,7 @@ To run the code two matrices as inputs are essential: 1)The matrix of long term 
 ## Output of the code
 The outputs of the code is "post" matrix. Each row of the matrix shows the estimated mean value(first column) and standard deviation(second column) of hourly GHI posterior distribution.
 
-Reference:
+## Reference:
 [1] Hossein Jadidi, Afshin Firouzi, Mohammad Ali Rastegar, Majid Zandi,
 Bayesian updating of solar resource data for risk mitigation in project finance,
 Solar Energy,
